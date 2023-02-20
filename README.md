@@ -1,6 +1,6 @@
 # WeatherApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4. This is simple app modified on latest version of angular for learning purpose.
 
 ## Development server
 
